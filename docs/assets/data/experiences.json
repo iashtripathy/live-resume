@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "05-10-2018",
+        "endAt": "06-25-2018",
+        "companyName": "Sparknova Pvt. Ltd",
+        "website": "https://www.linkedin.com/company/sparknova/about/",
+        "logo": "../../assets/template/experience/logo/facil-logo.png",
+        "internationalizations": [
+
+            {
+                "language": "en",
+                "city": "Trivandrum",
+                "country": "India",
+                "role": "Software Development Engineer Intern",
+                "description": "<b>Sparknova Pvt. Ltd</b> is a company focused in providing comprehensive end-to-end new-generation IT systems and BPO services to the Hospitality, Logistics sectors across the globe.<br><br>I was a part of a Team that had the responsibility of developing an Employee,Attendance and Leave management system for the company.<br><br>It was intended to manage the all employees details in an organized way and make easier for the employees to apply for leaves and get approved/rejected.It was later to be integrated with Fingerprint scanner.<br><br>AGILE methodology was used and technology used was MEAN stack"
+            }
+        ],
+        "technologies": [
+             "HTML5", "CSS", "CSS3", "Javascript", "jQuery", "MongoDb", "Nodejs", "Agile", "Express Framework", "Angular", "Windows", "Ubuntu"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Sparknova",
+                "http": "https://www.facebook.com/SparknovaSocial/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    }
+]

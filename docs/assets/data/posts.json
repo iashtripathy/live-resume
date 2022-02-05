@@ -1,0 +1,62 @@
+[
+    {
+        "thumbnail": "../../assets/posts/news.jpg",
+        "http": "https://github.com/iashtripathy/NewsApp",
+        "date": "07-26-2018",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "News App",
+                "description": "News Hub is a hybrid mobile app which is built using Ionic4 and Google's api. Different news categories like Sports,Entertainment,Technology,Science etc. are beautifully structured giving users the benefit of choosing the topic to read."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/posts/alumni.jpg",
+        "http": "http://protected-oasis-49361.herokuapp.com/",
+        "date": "11-22-2020",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Alumni Association Website.",
+                "description": "It is a website for the college to connect with their Alumni. The Front-end is build using Bootstrap. The Database used is MongoDb and the Backend used is Node.js. Alumni/Admin can post New carrier opportunities, create blogs etc."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/posts/cropinsure.png",
+        "http": "#",
+        "date": "05-10-2020",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Blockchain Based Crop Insurance Web App.",
+                "description": "CropInsure is a Webapp build using Solidity. Farmers can insure their land for a particular type of crop against Floods and Droughts. There is no third party involved in the entire process. In case of Floods and Droughts the farmers can avail their money provided it has been confirmed by smart contract."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/posts/railwayticket.png",
+        "http": "https://github.com/iashtripathy/Linux-Project",
+        "date": "11-12-2021",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Online Railway Ticket Booking System.",
+                "description": "This project is build purely in C language using Socket programming and System calls. All the CRUD operations are supported on ticket booking and users. System calls are used wherever necessary, Proper File locking and Interprocess communication mechanisms has been used."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/posts/blockchaindemo.jpg",
+        "http": "https://www.linkedin.com/posts/iash-tripathy-356030164_ionic-github-javascript-activity-6600337754054332416-q37q/",
+        "date": "08-28-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "A Mobile application to demonstrate the working of blockchain.",
+                "description": "I was inpired by Anders Brownworth to build this project. It is written purely in Javascript. The framework used is Ionic 4. It includes the core concepts of Blockchain like Proof-of-Work, Signing Transactions, Miner Rewards and Transactions."
+            }
+        ]
+    }
+]
