@@ -5,19 +5,19 @@
     </div>
 
     <div class="child logo-container" itemprop="brand" itemscope itemtype="https://schema.org/Brand">
-        <a (click)="resetMenu()" href="#" class="logo" itemprop="name" itemprop="logo">gbastos</a>
+        <a (click)="resetMenu()" href="#" class="logo" itemprop="name" itemprop="logo">Iash Kumar Tripathy</a>
     </div>
 
     <div class="child nav-container" #nav [hidden]="!hasMenuToggled" itemscope itemtype="https://schema.org/SiteNavigationElement">
         <ul>
             <li><a (click)="resetMenu()" href="#about" i18n="nav@@aboutMe" itemprop="url"><span itemprop="name">About me</span></a></li>
             <li><a (click)="resetMenu()" href="#experience" i18n="nav@@experiences" itemprop="url"><span itemprop="name">Experiences</span></a></li>
-            <li><a (click)="resetMenu()" href="#posts" i18n="nav@@posts" itemprop="url"><span itemprop="name">Posts</span></a></li>
+            <li><a (click)="resetMenu()" href="#posts" i18n="nav@@projects" itemprop="url"><span itemprop="name">Projects</span></a></li>
             <li><a (click)="resetMenu()" href="#contact" i18n="nav@@contact" itemprop="url"><span itemprop="name">Contact</span></a></li>
-            <li><a (click)="resetMenu()" href="https://assets.guilhermeborgesbastos.com/live-resume/cv-english-guilherme-bastos-v2.0.pdf" i18n-title="nav@@open.as.pdf" title="Open Resume as PDF" target="_blank"><fa-icon [icon]="faCloudDownloadAlt" class="bar-icon"></fa-icon></a></li>
+            <li><a (click)="resetMenu()" href="https://drive.google.com/file/d/1nneQWDHBZAFpXz12DCweAt7GznVfB-f2/view?usp=sharing" i18n-title="nav@@open.as.pdf" title="Open Resume as PDF" target="_blank"><fa-icon [icon]="faCloudDownloadAlt" class="bar-icon"></fa-icon></a></li>
         </ul>
     </div>
-
+<!--
     <div class="child language-container">
         <div class="frame">
             <ul>
@@ -30,9 +30,9 @@
             </ul>
         </div>
     </div>
-
+-->
     <div class="child share-container" #shareBtn>
         <fa-icon [icon]="faShareAlt" class="icon" (click)="share()" alt="share" itemprop="share"></fa-icon>
     </div>
 
-</header>   
+</header>

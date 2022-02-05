@@ -1,47 +1,35 @@
 {
     "internationalizations": [
         {
-            "language": "pt",
-            "description": "Minha caminhada como <i>programador</i> teve início aos nove anos de idade quando me apaixonei pelo <i>Logo</i>, uma linguagem de programação educacional usada para cativar crianças nas maravilhosas terras da <i>Programação</i>. Costumava passar horas seguidas tentando criar figuras e animações, usando matemática e geometria. Naquela época, eu simplesmente não conhecia os desafios emocionantes que ainda estavam por vir.<br><br>Alguns anos depois, consegui um estágio como <i>Webmaster</i>, desde então, nunca mais parei, sendo mais de uma década, onde venho tendo a chance de trabalhar com pessoas maravilhosas, aprendendo todos os dias, viajando pelo mundo e, principalmente, sempre fazendo grandes amizades.<br><br>Tive experiência como empreendedor, quando um amigo apresentou-me <i>Magento</i>, um framework de comércio eletrônico extremamente popular. Depois de fazer vários cursos e muita prática, consegui contratos com agências de São Paulo e Rio de Janeiro, Brasil. Essa experiência de empreendedorismo me deu a chance de ver o outro lado da moeda, o que contribuiu para expandir um pouco mais minha consciência como colaborador.<br><br>Atualmente, continuo buscando novas habilidades, aprendendo e compartilhando meu humilde conhecimento, tanto quanto possível."
-        },
-        {
             "language": "en",
-            "description": "My path as a <i>programmer</i> has started at nineish years old, when I've fallen in love with <i>Logo</i>, an educational programming language used to captivate kids in the wonderful lands of <i>Programming</i>. I used to spend hours in a row trying to build figures and animations, using math and geometry. At that time, I just did not know the exciting challenges that were yet to come.<br><br>A few years later, I got an internship as a <i>Webmaster</i>, since then, I have never stopped. It has been more than a decade, where I'm having the chance to work with marvelous people, learning every day, traveling the world, and mainly, always making great friendships.<br><br>I had an entrepreneurship experience, when a friend of mine presented me <i>Magento</i>, an extremely popular e-commerce framework. After doing several courses and a lot of practice, I got contracts with agencies from São Paulo and Rio de Janeiro, Brazil. This entrepreneurship experience gave me the chance to see the other side of the coin, which contributed to sort of expand a bit more my consciousness as an employee.<br><br>Nowadays, I keep seeking new skills, learning and sharing my humble knowledge as much as possible."
+            "description": "I am a passionate Engineer who strive in quality work.I have done a few projects which vary from Full Stack,Blockchain Technology,System programming. I have always been open to the challenges that comes my way. <br><br>During my 3rd Semester I have developed deep interest in Web Application Development and hence explored it a lot and was happy to build a few. I was fascinated by the Blockchain Technology when I attended a Blockchain workshop in IIT Bombay during my 3rd Semester.After coming back I understood how Blockchain works and the scope of Blockchain Technology in transforming the country in many fields and hence started exploring it and learnt Solidity and build a couple of Web Apps.<br><br> Meanwhile I developed great interest in some my course work like Operating Systems,Computer Networks,Algorithms and Data Structures which motivated me to learn more in this domain. Hence I decided to pursue my Masters from some Top institutes of the country and this is when I was introduced to GATE exam by one of my Professors. <br><br>GATE is one of the toughest competitive exams for Engineering grads which opens the door to pursue Masters and Phd from top institutes of the country.<br><br> I was quick to start my preparation and I am happy that I was able to crack the exam with All India Rank 1002. Finally I am admitted to Masters program in Computer Science in International Institute of Information Technology, Bangalore. <br><br>Currently I am looking for Software Engineer Summer Internships. I am looking for organizations that would challenge me with projects that require me to work outside my comfort zone.<br><br>I would love to learn new skills,which the organization would want me to because I believe this is how I could enhance my learning.<br>I am looking forward to work with some of the talented Engineers working on the projects at larger scale impacting the lives of millions of people."
         }
     ],
-    "medias": [        
+    "medias": [
         {
             "icon": "linkedin",
             "title": "LinkedIn",
-            "http": "https://www.linkedin.com/in/guilhermeborgesbastos/"
+            "http": "https://www.linkedin.com/in/iash-tripathy-356030164/"
         },
         {
             "icon": "github",
             "title": "GitHub",
-            "http": "https://github.com/guilhermeborgesbastos"
-        },
-        {
-            "icon": "facebook",
-            "title": "Facebook",
-            "http": "https://www.facebook.com/guilherme.borgesbastos"
+            "http": "https://github.com/iashtripathy"
         }
     ],
-    "hobbies": [        
+    "hobbies": [
+
         {
-            "icon": "biking",
-            "title": "Cycling"
+            "icon": "camera-retro",
+            "title": "Photography"
         },
         {
-            "icon": "dumbbell",
-            "title": "Gym"
+            "icon": "futbol",
+            "title": "Football"
         },
         {
             "icon": "suitcase-rolling",
             "title": "Travel"
-        },
-        {
-            "icon": "book",
-            "title": "Read"
         }
     ]
 }
