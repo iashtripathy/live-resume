@@ -1,0 +1,35 @@
+{
+    "internationalizations": [
+        {
+            "language": "en",
+            "description": "I am a passionate Engineer who strive in quality work.I have done a few projects which vary from Full Stack,Blockchain Technology,System programming. I have always been open to the challenges that comes my way. <br><br>During my 3rd Semester I have developed deep interest in Web Application Development and hence explored it a lot and was happy to build a few. I was fascinated by the Blockchain Technology when I attended a Blockchain workshop in IIT Bombay during my 3rd Semester.After coming back I understood how Blockchain works and the scope of Blockchain Technology in transforming the country in many fields and hence started exploring it and learnt Solidity and build a couple of Web Apps.<br><br> Meanwhile I developed great interest in some my course work like Operating Systems,Computer Networks,Algorithms and Data Structures which motivated me to learn more in this domain. Hence I decided to pursue my Masters from some Top institutes of the country and this is when I was introduced to GATE exam by one of my Professors. <br><br>GATE is one of the toughest competitive exams for Engineering grads which opens the door to pursue Masters and Phd from top institutes of the country.<br><br> I was quick to start my preparation and I am happy that I was able to crack the exam with All India Rank 1002. Finally I am admitted to Masters program in Computer Science in International Institute of Information Technology, Bangalore. <br><br>Currently I am looking for Software Engineer Summer Internships. I am looking for organizations that would challenge me with projects that require me to work outside my comfort zone.<br><br>I would love to learn new skills,which the organization would want me to because I believe this is how I could enhance my learning.<br>I am looking forward to work with some of the talented Engineers working on the projects at larger scale impacting the lives of millions of people."
+        }
+    ],
+    "medias": [
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/iash-tripathy-356030164/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/iashtripathy"
+        }
+    ],
+    "hobbies": [
+
+        {
+            "icon": "camera-retro",
+            "title": "Photography"
+        },
+        {
+            "icon": "futbol",
+            "title": "Football"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        }
+    ]
+}
